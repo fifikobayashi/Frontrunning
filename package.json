@@ -1,0 +1,14 @@
+{
+  "name": "frontrunning-research",
+  "version": "0.0.1",
+  "description": "Research into modern front running techniques and mitigations",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
